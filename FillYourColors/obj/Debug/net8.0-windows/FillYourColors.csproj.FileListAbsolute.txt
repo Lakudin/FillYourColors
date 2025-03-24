@@ -1,0 +1,100 @@
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.exe
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.deps.json
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.runtimeconfig.json
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.dll
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.pdb
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors_MarkupCompile.cache
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors_MarkupCompile.lref
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.g.resources
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.AssemblyInfo.cs
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.dll
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\refint\FillYourColors.dll
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.pdb
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.genruntimeconfig.cache
+C:\Users\user\Desktop\DZ\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\ref\FillYourColors.dll
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.exe
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.deps.json
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.runtimeconfig.json
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.dll
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.pdb
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors_MarkupCompile.cache
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors_MarkupCompile.lref
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.g.resources
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.AssemblyInfo.cs
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.dll
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\refint\FillYourColors.dll
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.pdb
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.genruntimeconfig.cache
+C:\Users\user\Desktop\DZ\В работе\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\ref\FillYourColors.dll
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.exe
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.deps.json
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.runtimeconfig.json
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.dll
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.pdb
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\App.g.cs
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors_MarkupCompile.cache
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors_MarkupCompile.lref
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.g.resources
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.AssemblyInfoInputs.cache
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.AssemblyInfo.cs
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.csproj.CoreCompileInputs.cache
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.dll
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\refint\FillYourColors.dll
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.pdb
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.genruntimeconfig.cache
+D:\Овсяшкин\Домашка вопросы\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\ref\FillYourColors.dll
+E:\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.exe
+E:\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.deps.json
+E:\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.runtimeconfig.json
+E:\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.dll
+E:\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.pdb
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\App.g.cs
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors_MarkupCompile.cache
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors_MarkupCompile.lref
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\MainWindow.baml
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.g.resources
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.GeneratedMSBuildEditorConfig.editorconfig
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.AssemblyInfoInputs.cache
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.AssemblyInfo.cs
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.csproj.CoreCompileInputs.cache
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.dll
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\refint\FillYourColors.dll
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.pdb
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.genruntimeconfig.cache
+E:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\ref\FillYourColors.dll
+D:\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.exe
+D:\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.deps.json
+D:\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.runtimeconfig.json
+D:\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.dll
+D:\FillYourColors\FillYourColors\bin\Debug\net8.0-windows\FillYourColors.pdb
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\App.g.cs
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors_MarkupCompile.cache
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors_MarkupCompile.lref
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\MainWindow.baml
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.g.resources
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.GeneratedMSBuildEditorConfig.editorconfig
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.AssemblyInfoInputs.cache
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.AssemblyInfo.cs
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.csproj.CoreCompileInputs.cache
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.dll
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\refint\FillYourColors.dll
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.pdb
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\FillYourColors.genruntimeconfig.cache
+D:\FillYourColors\FillYourColors\obj\Debug\net8.0-windows\ref\FillYourColors.dll

@@ -1,0 +1,74 @@
+﻿<Window x:Class="FillYourColors.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FillYourColors"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid x:Name="bigGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="600"/>
+            <ColumnDefinition Width="60"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Height="200" Width="75" HorizontalAlignment="Center" Margin="0,0,0,37" Grid.RowSpan="2">
+            <CheckBox x:Name="alphaCheck" IsChecked="True" Content="Alpha:" Height="20" Width="70" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10" 
+                      Checked="alphaCheck_Checked" Unchecked="alphaCheck_Unchecked"/>
+            <CheckBox x:Name="redCheck" IsChecked="True" Content="Red:" Height="20" Width="50" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10"/>
+            <CheckBox x:Name="greenCheck" IsChecked="True" Content="Green:" Height="20" Width="60" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10"/>
+            <CheckBox x:Name="blueCheck" IsChecked="True" Content="Blue:" Height="20" Width="50" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10"/>
+        </StackPanel>
+
+        <Grid Grid.Row="0" Grid.Column="1" Height="200" Margin="0,0,0,37" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="510"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="1">
+                <Slider  x:Name="A_Slider" ValueChanged="Slider_ValueChanged" Width="500" Margin="5,10" HorizontalAlignment="Right" Minimum="0" Maximum="255"/>
+                <Slider  x:Name="R_Slider" ValueChanged="Slider_ValueChanged" Width="500" Margin="5,12" HorizontalAlignment="Right" Minimum="0" Maximum="255"/>
+                <Slider  x:Name="G_Slider" ValueChanged="Slider_ValueChanged" Width="500" Margin="5,12" HorizontalAlignment="Right" Minimum="0" Maximum="255"/>
+                <Slider  x:Name="B_Slider" ValueChanged="Slider_ValueChanged" Width="500" Margin="5,10" HorizontalAlignment="Right" Minimum="0" Maximum="255"/>
+            </StackPanel>
+            <StackPanel Grid.Column="0">
+                <TextBlock x:Name="A_Value" Margin="5,12" Text="{Binding ElementName=A_Slider, Path=Value, StringFormat=N0}" />
+                <TextBlock x:Name="R_Value" Margin="5,12" Text="{Binding ElementName=R_Slider, Path=Value, StringFormat=N0}"/>
+                <TextBlock x:Name="G_Value" Margin="5,12" Text="{Binding ElementName=G_Slider, Path=Value, StringFormat=N0}"/>
+                <TextBlock x:Name="B_Value" Margin="5,12" Text="{Binding ElementName=B_Slider, Path=Value, StringFormat=N0}"/>
+            </StackPanel>
+        </Grid>
+
+        <StackPanel Grid.Row="0" Grid.Column="2" Height="190" Width="60" Grid.ColumnSpan="2" Margin="0,4,0,3" >
+            <ListBox x:Name="ListColor" Margin="5" Width="50" Height="150" Padding="5">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding}" 
+                               Background="{Binding Path=Color, RelativeSource={RelativeSource AncestorType=ListBoxItem}}"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+
+        <Button Grid.Row="1" Name="newColorButton" Content="Add" Width="46"
+                Height="25" HorizontalAlignment="Center" Cursor="Hand" Click="newColorButton_Click" Margin="0,8,0,7"/>
+
+        <ScrollViewer Grid.ColumnSpan ="3" Grid.Row="2">
+            
+                <StackPanel Grid.ColumnSpan ="3" Grid.Row="2" Height="200" Width="740">            
+
+                <StackPanel  x:Name="stacPanelOsnova"  HorizontalAlignment="Center"  VerticalAlignment="Top" >
+
+                </StackPanel>
+            
+        </StackPanel>
+        </ScrollViewer >
+    </Grid>
+</Window>
