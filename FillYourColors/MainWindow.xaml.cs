@@ -35,6 +35,7 @@ public partial class MainWindow : Window
     public MainWindow()
     {
         InitializeComponent();
+
     }
 
     private void Slider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
@@ -153,5 +154,15 @@ public partial class MainWindow : Window
             nameStakPanel--;
             LockButton();
         }
+    }
+
+    private void alphaCheck_Unchecked(object sender, RoutedEventArgs e)
+    {
+
+    }
+
+    private void alphaCheck_Checked(object sender, RoutedEventArgs e)
+    {
+
     }
 }
