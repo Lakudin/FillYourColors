@@ -62,13 +62,13 @@
 
         <ScrollViewer Grid.ColumnSpan ="3" Grid.Row="2">
             
-                <StackPanel Grid.ColumnSpan ="3" Grid.Row="2" Height="200" Width="740">            
+                <StackPanel Grid.ColumnSpan ="3" Grid.Row="2">            
 
                 <StackPanel  x:Name="stacPanelOsnova"  HorizontalAlignment="Center"  VerticalAlignment="Top" >
 
                 </StackPanel>
             
-        </StackPanel>
+                </StackPanel>
         </ScrollViewer >
     </Grid>
 </Window>

@@ -62,8 +62,6 @@ public partial class MainWindow : Window
         SolidColorBrush brush = new SolidColorBrush(color);
         ListColor.Background = brush;
         LockButton();
-        
-
     }
 
     private ListBox CreateListBox(ListBox listBox, ColorItem colorItem)
@@ -109,7 +107,7 @@ public partial class MainWindow : Window
         colorItem.Text = ListColor.Background.ToString();
 
         colorCheck.Add(colorItem);
-        
+        delButton.Tag = colorItem;
 
         CreateTextBox(newTextBox, colorItem);
         CreateListBox(listBox, colorItem);
@@ -126,11 +124,16 @@ public partial class MainWindow : Window
     }
     private void LockButton()
     {
+        if (colorCheck.Count == 0)
+        {
+            newColorButton.IsEnabled = true;
+        }
         foreach (var c in colorCheck)
             if (c.Text == ListColor.Background.ToString())
                 newColorButton.IsEnabled = false;
             else
                 newColorButton.IsEnabled = true;
+            
     }
     private void DeleteButton_Click(object sender, RoutedEventArgs e)
     {        
@@ -138,13 +141,21 @@ public partial class MainWindow : Window
         MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
         {
             Button button = (Button)sender;
+            TextBox tb = new TextBox(); 
             StackPanel parentStackPanel = (StackPanel)button.Parent;
-            StackPanel mainStackPanel = (StackPanel)parentStackPanel.Parent;            
+            StackPanel mainStackPanel = (StackPanel)parentStackPanel.Parent;
             //int nameForDel = Convert.ToInt32(parentStackPanel.Name);
             //colorCheck.RemoveAt(nameForDel);
-
+            ColorItem cm = new ColorItem();
+            foreach (var c in colorCheck)
+            {
+                if(c == button.Tag)
+                    cm = c;
+            }
+            colorCheck.Remove(cm);
             mainStackPanel.Children.Remove(parentStackPanel);
             nameStakPanel--;
+            LockButton();
         }
     }
 
