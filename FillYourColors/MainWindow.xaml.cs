@@ -35,7 +35,6 @@ public partial class MainWindow : Window
     public MainWindow()
     {
         InitializeComponent();
-
     }
 
     private void Slider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
@@ -115,7 +114,6 @@ public partial class MainWindow : Window
 
         createStec.Orientation = Orientation.Horizontal;
         stacPanelOsnova.Children.Add(createStec);
-        //createStec.Name = nameStakPanel.ToString();  почему-то не выходит....
         createStec.Children.Add(newTextBox);
         createStec.Children.Add(listBox);
         createStec.Children.Add(delButton);
@@ -144,8 +142,6 @@ public partial class MainWindow : Window
             TextBox tb = new TextBox(); 
             StackPanel parentStackPanel = (StackPanel)button.Parent;
             StackPanel mainStackPanel = (StackPanel)parentStackPanel.Parent;
-            //int nameForDel = Convert.ToInt32(parentStackPanel.Name);
-            //colorCheck.RemoveAt(nameForDel);
             ColorItem cm = new ColorItem();
             foreach (var c in colorCheck)
             {
@@ -157,15 +153,5 @@ public partial class MainWindow : Window
             nameStakPanel--;
             LockButton();
         }
-    }
-
-    private void alphaCheck_Unchecked(object sender, RoutedEventArgs e)
-    {
-
-    }
-
-    private void alphaCheck_Checked(object sender, RoutedEventArgs e)
-    {
-
     }
 }
